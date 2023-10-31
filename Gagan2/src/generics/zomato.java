@@ -24,5 +24,6 @@ public class zomato
 	public void close()
 	{
 		driver.close();
+		//zomato
 	}
 }
